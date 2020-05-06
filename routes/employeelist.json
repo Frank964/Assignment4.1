@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Harley Martins",
+        "ID": "ESD001",
+        "position": "Chief Scientist",
+        "image": "/images/Harley.jpg"
+       
+    },
+    {
+        "name": "Ifechukwu Simi",
+        "ID": "ESD002",
+        "position": "Head of Staff",
+        "image": "/images/ifee.jpg"
+        
+    },
+    {
+        "name": "Sandra Chekwas",
+        "ID": "ESD003",
+        "position": "Head of Security",
+        "image": "/images/sandra.jpg"
+      
+    },
+    {
+        "name": "Fred Sam",
+        "ID": "ESD004",
+        "position": "HR Manager",
+        "image": "/images/fred.jpg"
+      
+    },
+    {
+        "name": "Matthew Klu",
+        "ID": "ESD005",
+        "position": "Chef Assistant",
+        "image": "/images/matthew.jpg"
+      
+    },
+    {
+        "name": "Desir Pram",
+        "ID": "ESD006",
+        "position": "Chief Chef",
+        "image": "/images/desir.jpg"
+        
+      
+    },
+    {
+        "name": "Uche Uba",
+        "ID": "ESD007",
+        "position": "Chief of Marketting Dept.",
+        "image": "/images/uche.jpg"
+    },
+    {
+        "name": "Deodat Martin",
+        "ID": "ESD008",
+        "position": "Medical Dept intern",
+        "image": "/images/deodat.jpg"
+
+    },
+    {
+        "name": "Lilian Nwatakwocha",
+        "ID": "ESD009",
+        "position": "Secretary",
+        "image": "/images/lilian.jpg"
+    }
+    
+]

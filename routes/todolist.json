@@ -1,0 +1,22 @@
+[
+    {
+        "activity": "Attend Board Meeting",
+        
+        "done" : true
+    },
+    {
+        "activity": "Brief the Workers on recent changes in the company",
+        
+        "done" : false
+    },
+    {
+        "activity": "Contracts review",
+       
+        "done" : true
+    },
+    {
+        "activity": "Account Review",
+        
+        "done" : false
+    }
+]
